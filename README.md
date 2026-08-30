@@ -1,1 +1,21 @@
-<h1 align="center">Akshit Sonkusale</h1> <p align="center">Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027.<br/>Looking for Data Analyst / Data Science / SDE roles.</p> <p align="center"> <a href="https://x.com/189Tyler">Twitter</a> · <a href="mailto:akshitsonkusale18@gmail.com">Email</a> </p> <br> <h3 align="center">Skills</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,mongodb,supabase,sklearn,git,vercel" /> </p> <br> <h3 align="center">GitHub Stats</h3> <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshitSonkusale&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitSonkusale&layout=compact&theme=default&hide_border=true" /> </p>
+<h1 align="center">Akshit Sonkusale</h1>
+
+<p align="center">Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027.<br/>Looking for Data Analyst / Data Science / SDE roles.</p>
+
+<p align="center">
+  <a href="https://x.com/189Tyler">Twitter</a> · <a href="mailto:akshitsonkusale18@gmail.com">Email</a>
+</p>
+
+<br>
+
+<h3 align="center">Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,mongodb,supabase,sklearn,git,vercel" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/AkshitSonkusale?label=followers&style=social" />
+</p>
