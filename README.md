@@ -1,6 +1,6 @@
 <h1 align="center">Akshit Sonkusale</h1>
 
-<p align="center">Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027.<br/>Open to full-time roles in tech.</p>
+<p align="center">Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027<br/>Open to full-time roles in tech</p>
 
 <p align="center">
  <a href="mailto:akshitsonkusale18@gmail.com">Email</a>
