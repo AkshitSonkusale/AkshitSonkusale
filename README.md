@@ -1,10 +1,7 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E52521,100:049CD8&height=200&section=header&text=AKSHIT%20SONKUSALE&fontSize=48&fontColor=FBD000&fontAlignY=38&animation=fadeIn&desc=Computer%20Science%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" width="100%" /> </p> <p align="center"> <a href="https://x.com/189Tyler"><img src="https://img.shields.io/badge/Twitter-%40189Tyler-049CD8?style=for-the-badge&logo=x&logoColor=FBD000" /></a> <a href="mailto:akshitsonkusale18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-E52521?style=for-the-badge&logo=gmail&logoColor=FBD000" /></a> </p> <br>
-About
-Final-year B.Tech Computer Science (Data Science), Anurag University, Hyderabad — 2027
-Building ML systems with LLM integration (Groq/Llama), FastAPI, and React
-Looking for Data Analyst / Data Science / SDE roles
-<br>
-Skills
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /> </p> <br>
-GitHub Stats
-<p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshitSonkusale&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FBD000&icon_color=E52521&text_color=ffffff" /> <img height="165" src="https://streak-stats.demolab.com?user=AkshitSonkusale&hide_border=true&background=0D1117&ring=E52521&fire=FBD000&currStreakLabel=FBD000" /> </p> <p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitSonkusale&layout=compact&hide_border=true&bg_color=0D1117&title_color=FBD000&text_color=ffffff" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:049CD8,100:E52521&height=100&section=footer" width="100%" /> </p>
+Akshit Sonkusale
+
+Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027. Looking for Data Analyst / Data Science / SDE roles.
+
+Skills: Python · FastAPI · React · PostgreSQL · MongoDB · Supabase · scikit-learn
+
+Contact: Twitter · Email
