@@ -3,7 +3,7 @@
 <p align="center">Final-year B.Tech Computer Science (Data Science) student at Anurag University, Hyderabad — 2027.<br/>Looking for Data Analyst / Data Science / SDE roles.</p>
 
 <p align="center">
-  <a href="https://x.com/189Tyler">Twitter</a> · <a href="mailto:akshitsonkusale18@gmail.com">Email</a>
+ <a href="mailto:akshitsonkusale18@gmail.com">Email</a>
 </p>
 
 <br>
